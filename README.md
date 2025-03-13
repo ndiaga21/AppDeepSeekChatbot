@@ -1,7 +1,7 @@
 # AppDeepSeekChatbot  
 
 AppDeepSeekChatbot is a chatbot application powered by DeepSeek's AI models. It allows users to interact with an AI assistant in natural language.  
-
+![App Screenshot](images/app_screenshot.png)
 ## Features  
 - **AI-powered chat**: Interact with the chatbot using natural language.  
 - **Easy deployment**: Run the app locally or deploy it on a cloud platform.  
