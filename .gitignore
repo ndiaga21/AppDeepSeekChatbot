@@ -1,0 +1,24 @@
+# .gitignore
+# Secrets
+.streamlit/secrets.toml
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite
+*.pyc
+
+# Environnements virtuels
+venv/
+.env/
+ENV/
+
+# Streamlit
+data/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/".streamlit/secrets.toml" 
